@@ -33,6 +33,7 @@ var map = new maplibregl.Map({
 
 
 //UI
+map.addControl(new maplibregl.GeolocateControl({positionOptions: {enableHighAccuracy: true},trackUserLocation: true}), 'top-right');
 map.addControl(new maplibregl.NavigationControl(), 'bottom-right');
 map.addControl(new maplibregl.ScaleControl() );
 
