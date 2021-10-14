@@ -1,8 +1,8 @@
 # plic-mlb01
 Webmap practice with MapLibre 01
 
-## maplibre
-Files are downloaded from
+## Sample map
+https://ubukawa.github.io/plic-mlb01/index.html
 
 ## Vector tiles for practoce
 ### URL https://ubukawa.github.io/vt-test/ne-test/{z}/{x}/{y}.pbf  
