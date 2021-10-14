@@ -1,4 +1,4 @@
-# plic-mlb01
+# plib-mlb01
 Webmap practice with MapLibre 01
 
 ## Sample map
