@@ -2,7 +2,8 @@
 Webmap practice with MapLibre 01
 
 ## Sample map
-https://ubukawa.github.io/plic-mlb01/index.html
+https://ubukawa.github.io/plic-mlb01/index.html  
+https://ubukawa.github.io/plic-mlb01/nyc.html
 
 ## Vector tiles for practoce
 ### URL https://ubukawa.github.io/vt-test/ne-test/{z}/{x}/{y}.pbf  
