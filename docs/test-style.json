@@ -8,8 +8,6 @@
       "tiles": [
         "https://cyberjapandata.gsi.go.jp/xyz/experimental_bvmap/{z}/{x}/{y}.pbf"
       ],
-      "minZoom": 0,
-      "maxZoom": 14,
       "minzoom": 4,
       "maxzoom": 16
     }
