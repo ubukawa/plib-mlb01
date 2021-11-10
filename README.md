@@ -27,3 +27,8 @@ https://unpkg.com/maplibre-gl@1.15.2/dist/maplibre-gl.js
 ## License
 MapLibre GL is licensed under the 3-Clause BSD license.  
 Check license for other.
+
+
+## additional sample map
+https://ubukawa.github.io/plib-mlb01/gsi-vector.html  
+https://ubukawa.github.io/plib-mlb01/gsi-vector-test.html
